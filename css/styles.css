@@ -274,3 +274,20 @@ footer {
 .contact-email a:hover {
     text-decoration: underline;
 }
+
+section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #4CAF50;
+    text-align: center;
+}
+
+.prototype {
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    max-width: 600px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
